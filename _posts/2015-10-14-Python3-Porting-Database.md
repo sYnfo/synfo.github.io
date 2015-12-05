@@ -3,11 +3,11 @@ title: Python 3 Porting Database
 layout: post
 ---
 
-[![img](http://i.imgur.com/V17bYKv.png)](http://portingdb-encukou.rhcloud.com/)
+[![img](http://i.imgur.com/V17bYKv.png)](http://fedora.portingdb.xyz/)
 
 Python is a very important building block of the Fedora experience. With the release of Fedora 23 we will have completed a step in the transition to Python 3: [Fedora 23 Workstation does not contain Python 2 in it's default installation at all](http://rkuska.github.io/2015/10/08/Fedora-and-Python3.html).
 
-Next up, we want to make sure that all (or as many as possible) Python packages in Fedora support Python 3, or have a successor that does. We're still far from this being the case: of the about 3000 Python packages in Fedora, just 900 do support Python 3 or have an alternative that does. For this reason, [@encukou](https://twitter.com/encukou) has created [Python 3 Porting Database](http://portingdb-encukou.rhcloud.com/) ([github repo](https://github.com/fedora-python/portingdb/)), a tool that tracks progress in this goal and helps coordinate the efforts.
+Next up, we want to make sure that all (or as many as possible) Python packages in Fedora support Python 3, or have a successor that does. We're still far from this being the case: of the about 3000 Python packages in Fedora, just 900 do support Python 3 or have an alternative that does. For this reason, [@encukou](https://twitter.com/encukou) has created [Python 3 Porting Database](http://fedora.portingdb.xyz/) ([github repo](https://github.com/fedora-python/portingdb/)), a tool that tracks progress in this goal and helps coordinate the efforts.
 
 In this post I'd like to explain some of the features, show how the Database works and how you can contribute.
 

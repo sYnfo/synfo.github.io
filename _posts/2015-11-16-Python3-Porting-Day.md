@@ -7,7 +7,7 @@ layout: post
 
 The [Python 3 Porting Fedora Activity Day](https://communityblog.fedoraproject.org/help-port-python-packages-to-python-3/) wrapped up this Sunday. In the span of ~48 hours and three continents, we've done [a lot of things](https://github.com/fedora-python/portingdb/compare/cbea35d4b607779d2f9b75932cf6b389e87ea0c9...8f7d4254db04748d05e57fc9f1808902101c716f):
 
-32 people had made 126 commits to the portingdb, with 3,803 additions and 3,226 deletions, making the [portingdb](http://portingdb-encukou.rhcloud.com/) more useful for everyone.
+32 people had made 126 commits to the portingdb, with 3,803 additions and 3,226 deletions, making the [portingdb](http://fedora.portingdb.xyz/) more useful for everyone.
 
 We've filled numerous bugs for Fedora packages that lack Python 3 support, providing an updated .spec file for 9 of them.
 
