@@ -11,7 +11,7 @@ Eventually, anyway.
 Currently at version 0.4 it's missing a [bunch of things](https://github.com/dropbox/pyston/blob/14aa0f0adadf944a8819ad081626d43fbe1cbb8c/test/CPYTHON_TEST_NOTES.md), but [reportedly it's capable of running a lot of Dropbox's servers](https://www.youtube.com/watch?v=NdB9XoBg5zI), so it can't be too bad.
 
 # Future of Python 2?
-Dropbox has said they won't be porting all their code to Python 3, so presumably Pyston is one of their fallbacks come 2020 -- [the year Python 2 seizes to be supported by upstream](https://www.python.org/dev/peps/pep-0373/).
+Dropbox has said they won't be porting all their code to Python 3, so presumably Pyston is one of their fallbacks come 2020 -- [the year Python 2 ceases to be supported by upstream](https://www.python.org/dev/peps/pep-0373/).
 
 Dropbox isn't alone either -- Google, OpenStack, and others have giant codebases not compatible with Python 3 and I imagine they aren't thrilled about the prospect of porting it all.
 
